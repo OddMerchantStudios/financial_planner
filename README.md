@@ -1,4 +1,4 @@
 # financial_planner
 
 ## Libraries used:
-### Alpaca Trade API, MCSimulation_Tools
+### Alpaca Trade API, Monte Carlo Simulation Tools
